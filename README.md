@@ -17,8 +17,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / PHP / ANDROID / FLUTTER
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hansana-Wijethilaka)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansana-Wijethilaka)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansana-Wijethilaka&show_icons=true&count_private=true)  
